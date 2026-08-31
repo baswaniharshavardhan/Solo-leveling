@@ -1,0 +1,6 @@
+{
+  "name": "Solo Leveling: Awakening System",
+  "description": "Gamified mobile progression app featuring Hunter (30-Day Fitness) and Maze (Chess & Logic Puzzles) tracks with offline local storage and system status window.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
